@@ -1,0 +1,12 @@
+.hoverbtn:hover{
+    background-color: #007bff;
+    color: white;
+}
+
+.gototop{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    opacity: 0.6;
+}
+
